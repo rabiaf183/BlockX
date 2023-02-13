@@ -1,1 +1,1 @@
-BlockX Basic implementation
+BlockX basic implementation
