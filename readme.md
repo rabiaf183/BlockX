@@ -1,1 +1,1 @@
-This challenge is for sending and recieving ethers using Fallback functions
+These are few main cncepts of solidity
